@@ -29,21 +29,6 @@ about missing material.
         ]
     }
     ```
-    
-    ```json
-    {
-        "product": [
-            {
-                "id": 1,
-                "product_qty": 30
-            },
-            {
-                "id": 2,
-                "product_qty": 20
-            }
-        ]
-    }
-    ```
 
 
 
