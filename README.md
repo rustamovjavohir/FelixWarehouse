@@ -15,20 +15,20 @@ about missing material.
   POST /api/factory/
 ```
 
-    ```json
+```json
+{
+  "product": [
     {
-        "product": [
-            {
-                "id": 1,
-                "product_qty": 30
-            },
-            {
-                "id": 2,
-                "product_qty": 20
-            }
-        ]
+      "id": 1,
+      "product_qty": 30
+    },
+    {
+      "id": 2,
+      "product_qty": 20
     }
-    ```
+  ]
+}
+   ```
 
 
 
